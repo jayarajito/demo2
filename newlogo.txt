@@ -1,1 +1,2 @@
 this is new log for the fike
+This is forth line 4
